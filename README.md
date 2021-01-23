@@ -2,7 +2,7 @@
 
 Repo: https://ucsb-cs156-w21/jpa02-dougyuan
 
-On Heroku: https://cs156-w21-jpa02-dougyuan.herokuapp.com
+On Heroku: https://cs156-w21-jpa02-douglasyuan.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa02-dougyuan
 
